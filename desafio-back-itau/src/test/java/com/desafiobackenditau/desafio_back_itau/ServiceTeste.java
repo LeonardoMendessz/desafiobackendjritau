@@ -21,7 +21,7 @@ public class ServiceTeste {
 
 
     @Test
-    public void CriarTransacaoTeste_Correto(){
+    public void CriarTransacao_TesteCorreto(){
 
         // Arrange
         TransacaoService transacaoService = new TransacaoService();
